@@ -1,10 +1,10 @@
 # DevSecOps
 
-###  ni
-## 2
+Repositorio de actividades del curso Seguridad en entornos cloud y DevOps 
 
-```
-git status
-git add
-git commit
-```
+
+
+
+
+
+
