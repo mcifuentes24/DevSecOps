@@ -20,6 +20,7 @@ A lo largo de este trabajo, se explorarán las siguientes secciones:
 
 2. **Métodos de explotación**: Para cada vulnerabilidad, investigar y documentar métodos específicos que los atacantes pueden utilizar para explotarlas. Incluir ejemplos de ataques reales, así como descripciones de herramientas y técnicas comúnmente utilizadas en la explotación de estas vulnerabilidades.
 
+
 3. **Mejores prácticas de prevención y mitigación**: Proporcionar recomendaciones y mejores prácticas para mitigar cada vulnerabilidad. 
 
 **Objetivos del Trabajo:**
@@ -27,3 +28,13 @@ A lo largo de este trabajo, se explorarán las siguientes secciones:
 - Documentar métodos de explotación asociados con cada vulnerabilidad.
 - Proporcionar recomendaciones prácticas para prevenir y mitigar los riesgos asociados.
 
+# Referencias de apoyo.
+
+- https://owasp.org/Top10/es/
+- https://www.checkpoint.com/es/cyber-hub/cloud-security/what-is-application-security-appsec/owasp-top-10-vulnerabilities/
+- https://certera.com/blog/mitigating-the-owasp-top-10-vulnerabilities/
+- https://owasp.org/www-project-top-ten/
+- https://www.akamai.com/es/blog/security/owasp-top-10-api-security-risks-2023-edition
+- https://cloudkul.com/blog/owasp-top-10-2021/
+- https://unaaldia.hispasec.com/2017/11/owasp-publica-la-edicion-2017-de-su-top-10-web-application-security-risks.html
+- 
