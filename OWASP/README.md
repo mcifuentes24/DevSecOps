@@ -1,7 +1,7 @@
 ### Enunciado del Trabajo: Investigación sobre el OWASP Top 10
 
 Realizar  en grupo de trabajo existentes el trabajo enunciado a continuación.
-Cada  grupo de trabajo debe crear una carpeta dentro de esta carpeta del repositorio, titilada cn el número del grupo y que contenga un README.md con el desarrollo de tema de trabajo e integrantes del grupo.
+Cada  grupo de trabajo debe crear una carpeta dentro de esta carpeta del repositorio, titulada con el número del grupo y que contenga un README.md con el desarrollo de tema de trabajo e integrantes del grupo.
 
 
 # Desarrollo.
