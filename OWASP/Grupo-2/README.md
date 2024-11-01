@@ -1,9 +1,10 @@
-# Grupo 2
-
-Integrantes
+Grupo 2 Integrantes.
 
 Adriana Tobon 
 
 Diego Padilla
+
+
+
 
 
