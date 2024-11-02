@@ -11,10 +11,10 @@ Charles Guerrero
 charles.guerrero@uniminuto@uniminuto.edu.co
 CharlesGuerrero14
 
-El OWASP Top 10
+# El OWASP Top 10
 Es un documento de concientización estándar para desarrolladores y seguridad de aplicaciones web. Representa un amplio consenso sobre los riesgos de seguridad más críticos para las aplicaciones web.
 
-2021 OWASP Top 10
+# 2021 OWASP Top 10
 Inyección de código (A01:2021): Vulnerabilidad que permite a un atacante inyectar código malicioso en una aplicación.
 
 Autenticación y autorización débiles (A02:2021): Vulnerabilidades en la autenticación y autorización que permiten accesos no autorizados.
@@ -35,7 +35,7 @@ Uso de componentes con vulnerabilidades conocidas (A09:2021): Vulnerabilidades d
 
 Registro y seguimiento de seguridad insuficiente (A10:2021): Vulnerabilidades debido a un registro y seguimiento de seguridad insuficiente.
 
-Inyección (A01:2021)
+# Inyección (A01:2021)
 La inyección ocurre cuando un atacante puede insertar datos maliciosos en una aplicación, permitiéndole ejecutar código o acceder a información confidencial.
 
 Ejemplos de Inyección:
@@ -46,7 +46,7 @@ Inyección de comandos: Un atacante ingresa en un formulario de carga de archivo
 
 Inyección de código: Un atacante ingresa en un formulario de comentarios el siguiente texto: <script>alert('XSS')</script>. Si la aplicación no valida la entrada, puede ejecutar el código JavaScript y mostrar un mensaje emergente.
 
-Diseño Inseguro (A06:2021)
+# Diseño Inseguro (A06:2021)
 El diseño inseguro se refiere a la falta de consideración de la seguridad en el diseño de una aplicación, lo que puede llevar a vulnerabilidades.
 
 Ejemplos de Diseño Inseguro:
