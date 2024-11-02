@@ -31,6 +31,8 @@ La lista se actualiza periódicamente para reflejar las amenazas emergentes y la
 
 ## Top Ten Vulnerabilities
 
+![image](https://owasp.org/www-project-top-ten/assets/images/mapping.png)
+
 ### 1. A01:2021 - Pérdida de Control de Acceso
 - **Descripción**: Incapacidad de aplicar adecuadamente políticas de control de acceso, permitiendo que usuarios no autorizados accedan a funciones y datos sensibles. Los atacantes pueden manipular la lógica de acceso a través de técnicas como la suplantación de identidad o el escalado de privilegios.
 - **Ejemplos**:
