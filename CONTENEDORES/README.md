@@ -42,3 +42,8 @@ Con contenerización:
 
 Esto garantiza que tu aplicación funcionará de manera consistente en cualquier entorno, simplificando el proceso de despliegue y reduciendo problemas relacionados con configuraciones inconsistentes.
 
+
+# Referencias.
+
+- https://github.com/jaiderospina/Docker20242
+
