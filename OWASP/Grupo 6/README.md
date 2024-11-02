@@ -158,8 +158,3 @@ La falta de monitoreo y registro efectivo dificulta la detección de ataques y l
 
 ---
 
-
----
-
-**¡Gracias por revisar nuestro proyecto!**
-
