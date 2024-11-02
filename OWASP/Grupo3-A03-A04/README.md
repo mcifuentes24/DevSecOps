@@ -46,6 +46,9 @@ Inyección de comandos: Un atacante ingresa en un formulario de carga de archivo
 
 Inyección de código: Un atacante ingresa en un formulario de comentarios el siguiente texto: <script>alert('XSS')</script>. Si la aplicación no valida la entrada, puede ejecutar el código JavaScript y mostrar un mensaje emergente.
 
+https://www.cloudflare.com/learning/security/threats/sql-injection/
+
+
 # Diseño Inseguro 
 El diseño inseguro se refiere a la falta de consideración de la seguridad en el diseño de una aplicación, lo que puede llevar a vulnerabilidades.
 
