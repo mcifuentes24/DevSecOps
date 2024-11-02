@@ -1,7 +1,7 @@
 Integrantes
 
 Paola Quiroga
-ingreid.quiroga@uniminuto.edu.co
+ingrid.quirogaped@uniminuto.edu.co
 
 Alejandro Cortes
 jairo.cortes@uniminuto.edu.co
