@@ -129,8 +129,3 @@ https://owasp.org/Top10/es/
 Conocer y aplicar estas medidas de seguridad es fundamental para proteger tus aplicaciones web y minimizar riesgos. ¡Contribuyamos juntos a crear un entorno digital más seguro!
 
 
-##  N1
-
-# 1
-
-'' HSKJHFS ''
