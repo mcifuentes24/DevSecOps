@@ -158,9 +158,6 @@ La falta de monitoreo y registro efectivo dificulta la detección de ataques y l
 
 ---
 
-## Conclusión
-
-El **OWASP Top 10** representa las principales vulnerabilidades en aplicaciones web y proporciona un marco de referencia esencial para mejorar la seguridad en el desarrollo de software. Implementar estas recomendaciones ayuda a reducir significativamente el riesgo de ataques y a proteger los datos sensibles de los usuarios.
 
 ---
 
