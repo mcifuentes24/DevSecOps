@@ -1,9 +1,13 @@
 Análisis de Vulnerabilidades en el OWASP Top 10: Métodos de Explotación y Prevención
 
 Grupo: 7
+
 Integrantes: 
+
 Lenix Michell Cifuentes Gutierrez
+
 Camilo Andres Porras Vega
+
 Harold Bernardo Ramirez Reyes
 
 1. Control de Acceso Roto (Broken Access Control)
