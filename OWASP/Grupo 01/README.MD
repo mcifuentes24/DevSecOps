@@ -792,34 +792,34 @@ o	Implementar software de seguridad, como firewalls y sistemas de detección de 
 3.Mejores prácticas de prevención y mitigación: 
 
 Validación y Sanitización de Entradas
-•	Descripción: Implementar validaciones estrictas en todos los puntos de entrada de datos.
-•	Práctica: Utilizar listas blancas para permitir solo formatos de datos esperados. Por ejemplo, validar formatos de correo electrónico, números de teléfono, etc.
+Descripción: Implementar validaciones estrictas en todos los puntos de entrada de datos.
+Práctica: Utilizar listas blancas para permitir solo formatos de datos esperados. Por ejemplo, validar formatos de correo electrónico, números de teléfono, etc.
   Controles de Acceso Rigurosos
-•	Descripción: Asegurar que solo los usuarios autorizados tengan acceso a datos y funciones críticas.
-•	Práctica: Aplicar el principio de menor privilegio, revisando y actualizando regularmente los roles y permisos de acceso.
+Descripción: Asegurar que solo los usuarios autorizados tengan acceso a datos y funciones críticas.
+Práctica: Aplicar el principio de menor privilegio, revisando y actualizando regularmente los roles y permisos de acceso.
 Uso de Cifrado
-•	Descripción: Proteger los datos sensibles mediante cifrado tanto en tránsito como en reposo.
-•	Práctica: Implementar protocolos seguros como HTTPS y utilizar algoritmos de cifrado robustos para bases de datos y almacenamiento de archivos.
+Descripción: Proteger los datos sensibles mediante cifrado tanto en tránsito como en reposo.
+Práctica: Implementar protocolos seguros como HTTPS y utilizar algoritmos de cifrado robustos para bases de datos y almacenamiento de archivos.
  Auditorías y Monitoreo Regular
-•	Descripción: Realizar auditorías periódicas de seguridad y monitorear actividades sospechosas.
-•	Práctica: Implementar sistemas de gestión de eventos e información de seguridad (SIEM) para detectar y responder a anomalías en tiempo real.
+Descripción: Realizar auditorías periódicas de seguridad y monitorear actividades sospechosas.
+Práctica: Implementar sistemas de gestión de eventos e información de seguridad (SIEM) para detectar y responder a anomalías en tiempo real.
   Uso de Pruebas de Penetración
-•	Descripción: Realizar pruebas de penetración regulares para identificar y corregir vulnerabilidades.
-•	Práctica: Contratar equipos externos o utilizar herramientas de pruebas automatizadas para simular ataques y evaluar la seguridad.
+Descripción: Realizar pruebas de penetración regulares para identificar y corregir vulnerabilidades.
+Práctica: Contratar equipos externos o utilizar herramientas de pruebas automatizadas para simular ataques y evaluar la seguridad.
 Capacitación del Personal
-•	Descripción: Proporcionar formación continua sobre mejores prácticas de seguridad y concienciación sobre amenazas.
-•	Práctica: Realizar talleres y sesiones de formación para asegurar que todos los empleados comprendan la importancia de la seguridad de los datos.
+Descripción: Proporcionar formación continua sobre mejores prácticas de seguridad y concienciación sobre amenazas.
+Práctica: Realizar talleres y sesiones de formación para asegurar que todos los empleados comprendan la importancia de la seguridad de los datos.
  Implementación de Políticas de Seguridad
-•	Descripción: Establecer políticas claras para la gestión de datos y la seguridad del software.
-•	Práctica: Documentar y comunicar las políticas a todo el personal, asegurando que se sigan rigurosamente.
+Descripción: Establecer políticas claras para la gestión de datos y la seguridad del software.
+Práctica: Documentar y comunicar las políticas a todo el personal, asegurando que se sigan rigurosamente.
 Uso de Bibliotecas y Dependencias Seguras
-•	Descripción: Mantener actualizadas las bibliotecas y dependencias de terceros.
-•	Práctica: Utilizar herramientas de gestión de dependencias para identificar y actualizar componentes vulnerables de forma regular.
+Descripción: Mantener actualizadas las bibliotecas y dependencias de terceros.
+Práctica: Utilizar herramientas de gestión de dependencias para identificar y actualizar componentes vulnerables de forma regular.
  Mecanismos de Registro y Auditoría
-•	Descripción: Implementar registros detallados de todas las acciones realizadas en el sistema.
-•	Práctica: Asegurarse de que los registros sean inmutables y estén protegidos contra manipulaciones.
+Descripción: Implementar registros detallados de todas las acciones realizadas en el sistema.
+Práctica: Asegurarse de que los registros sean inmutables y estén protegidos contra manipulaciones.
  Pruebas de Integridad de Datos
-•	Descripción: Realizar pruebas regulares para verificar la integridad de los datos almacenados.
-•	Práctica: Implementar algoritmos de hash para los datos críticos y compararlos periódicamente para detectar alteraciones.
+Descripción: Realizar pruebas regulares para verificar la integridad de los datos almacenados.
+Práctica: Implementar algoritmos de hash para los datos críticos y compararlos periódicamente para detectar alteraciones.
 
 
