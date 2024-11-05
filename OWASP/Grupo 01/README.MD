@@ -215,16 +215,6 @@ Descripción: Escapa adecuadamente caracteres especiales en las entradas de dato
 Práctica: Utiliza funciones de escape adecuadas según el contexto (por ejemplo, escapar caracteres en SQL, HTML, XML, etc.).
 
 
-
-
-
-
-
-
-
-
-
-
 4.	FALLAS CRIPTOGRÁFICAS
 
 1.	Descripción de cada vulnerabilidad:
@@ -243,8 +233,6 @@ Impacto Potencial
 5.	Consecuencias Legales: Las brechas de datos pueden resultar en sanciones legales y regulatorias.
 
 
-
-
 Ejemplos Comunes de Fallas Criptográficas
 1.	Uso de MD5 para Cifrado de Contraseñas: MD5 es un algoritmo obsoleto y vulnerable a ataques de colisión. Su uso en el almacenamiento de contraseñas puede permitir que los atacantes comprometan las credenciales.
 2.	Transmisión de Datos Sin Cifrado: La falta de cifrado en la transmisión de datos (por ejemplo, no utilizar HTTPS) permite a los atacantes interceptar información sensible durante la comunicación.
@@ -257,13 +245,6 @@ Para prevenir fallas criptográficas, se deben seguir buenas prácticas, como:
 •	Cifrado de Datos Sensibles: Asegurarse de que todos los datos sensibles estén cifrados tanto en reposo como en tránsito.
 •	Revisiones de Seguridad: Realizar auditorías y revisiones regulares del uso de criptografía en la aplicación.
 •	Evitar la Reutilización de Claves: Generar claves únicas para cada sesión o transacción en lugar de reutilizarlas.
-
-
-
-
-
-
-
 
 
 2.	Métodos de explotación:
@@ -287,9 +268,6 @@ o	GitLeaks: Herramienta para escanear repositorios en busca de secretos expuesto
 o	TruffleHog: Busca claves y secretos en el historial de commits de Git.
 
 
-
-
-
 3.	Mejores prácticas de prevención y mitigación
 Uso de Algoritmos Criptográficos Fuertes
 •	Descripción: Utiliza algoritmos modernos y seguros para cifrado y hashing.
@@ -303,14 +281,6 @@ Cifrado de Datos Sensibles
  Implementación de Salts y Peppered Hashes
 •	Descripción: Cuando almacenes contraseñas, utiliza salts y, opcionalmente, peppers para proteger los hashes.
 •	Práctica: Genera un salt único para cada contraseña y almacénalo junto al hash. Usa un algoritmo de hashing lento como bcrypt, Argon2 o PBKDF2.
-
-
-
-
-
-
-
-
 
 
 5	   FALLAS DE IDENTIFICACIÓN Y AUTENTICACIÓN
@@ -393,8 +363,6 @@ Implementar Autenticación Multifactor (MFA)
 
 
 
-
-
 6.	COMPONENTES VULNERABLES Y OBSOLETOS
 
 
@@ -450,7 +418,6 @@ o	Herramientas:
 	Nikto: Escáner de servidores web que detecta vulnerabilidades en la configuración y componentes obsoletos.
 
 
-
 Ejemplos de Ataques Reales
 1.	Ataque de Log4Shell (2021)
 o	Descripción: Una vulnerabilidad crítica en la biblioteca Log4j permitió a los atacantes ejecutar código remoto en aplicaciones que utilizaban versiones vulnerables.
@@ -463,16 +430,6 @@ o	Descripción: Un ataque a la cadena de suministro que comprometió el software
 o	Impacto: La brecha se produjo a través de componentes vulnerables que habían sido manipulados durante el proceso de desarrollo.
 
 
-
-
-
-
-
-
-
-
-
-
 3.Mejores prácticas de prevención y mitigación: 
 
  Mantenimiento Regular de Dependencias
@@ -483,20 +440,6 @@ o	Impacto: La brecha se produjo a través de componentes vulnerables que habían
  Pruebas de Seguridad en el Ciclo de Desarrollo
 •	Descripción: Integrar pruebas de seguridad en cada etapa del ciclo de desarrollo de software.
 •	Práctica: Realizar análisis de vulnerabilidades y pruebas de penetración en las dependencias durante el desarrollo y antes del lanzamiento.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 	
 7.FALSIFICACIÓN DE SOLICITUD DEL LADO DEL SERVIDOR (SSRF)
@@ -513,7 +456,6 @@ Impacto Potencial
 2.	Exfiltración de Datos: SSRF puede permitir a un atacante acceder a datos sensibles almacenados en servicios internos y enviarlos a un servidor externo.
 3.	Compromiso de Servicios Externos: A través de la SSRF, un atacante podría enviar solicitudes a servicios externos, posiblemente comprometiéndolos o realizando ataques en nombre del servidor afectado.
 4.	Denegación de Servicio: Si un atacante envía una gran cantidad de solicitudes a un recurso interno o externo, podría causar una denegación de servicio.
-
 
 
 Ejemplos de Ataques Reales
@@ -564,15 +506,6 @@ o	Descripción: Framework que permite a los atacantes lanzar exploits y realizar
 o	Descripción: Herramientas que automatizan el envío de solicitudes a endpoints, probando diferentes combinaciones de URLs para descubrir vulnerabilidades.
 
 
-
-
-
-
-
-
-
-
-
 3.	Mejores prácticas de prevención y mitigación:
  Validación Estricta de Entradas
 •	Descripción: Implementar validaciones rigurosas para las URLs y entradas proporcionadas por el usuario.
@@ -601,19 +534,6 @@ Seguir Principios de Seguridad por Diseño
 Limitar el Tiempo de Respuesta y las Solicitudes
 •	Descripción: Implementar límites en el tiempo de respuesta y el número de solicitudes que puede realizar la aplicación.
 •	Práctica: Establecer límites que eviten que la aplicación se convierta en un vector para ataques de denegación de servicio (DoS) a través de SSRF.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -678,8 +598,6 @@ o	Descripción: Herramienta de escaneo de red que puede ser utilizada para descu
 o	Descripción: Herramienta de análisis de tráfico de red que puede capturar paquetes y detectar datos no cifrados en la comunicación entre cliente y servid
 
 
-
-
 3.Mejores prácticas de prevención y mitigación: 
 
 Incorporar la Seguridad en el Proceso de Diseño
@@ -727,16 +645,6 @@ Impacto Potencial
 1.	Acceso No Autorizado: La mala configuración puede permitir que usuarios no autorizados accedan a recursos sensibles, lo que puede resultar en filtración de datos.
 2.	Exposición a Ataques: Las configuraciones inseguras pueden facilitar la explotación de otras vulnerabilidades, permitiendo ataques como inyecciones, escalado de privilegios y ejecución remota de código.
 3.	Fugas de Información: La exposición de servicios no asegurados puede permitir a los atacantes recolectar
-
-
-
-
-
-
-
-
-
-
 
 
 2.Métodos de explotación:
@@ -878,7 +786,6 @@ o	Utilizar cifrado para proteger los datos en tránsito y en reposo, reduciendo 
 o	Realizar auditorías periódicas y pruebas de penetración para identificar vulnerabilidades y corregir problemas de integridad.
 5.	Uso de Software de Seguridad
 o	Implementar software de seguridad, como firewalls y sistemas de detección de intrusiones, para proteger las aplicaciones y los datos.
-
 
 
 
