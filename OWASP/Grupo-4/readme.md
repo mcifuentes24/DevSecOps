@@ -8,6 +8,7 @@ YANETH RODRÍGUEZ
 # Investigación:
 Análisis de Vulnerabilidades en el OWASP Top 10: Métodos de Explotación y Prevención
 ![TOP_10_logo_Final_Logo_Colour](https://github.com/user-attachments/assets/d84e713f-f86d-4ed5-ba33-c5582cd67987)
+(https://owasp.org/Top10/es/A00_2021_Introduction/)
 
 - OWASP (Open Web Application Security Project) es una organización sin ánimo de lucro cuyo propósito fundamental es el mejoramiento de la seguridad del software. Se dedica a incrementar la visibilidad de la seguridad del software, facilitando así que las organizaciones puedan tomar decisiones fundamentadas respecto a los riesgos de seguridad. El OWASP TOP 10, publica una lista que recoge los problemas más frecuentes y críticos detectados en las aplicaciones web.
 Los 10 principales riesgos de seguridad de las aplicaciones web
