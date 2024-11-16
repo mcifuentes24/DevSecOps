@@ -5,6 +5,19 @@ Crear un contenedor de Docker con un servidor web Apache que utilice una carpeta
 
 ---
 
+## Imagenes
+### Muestra 1
+
+![Primer paso](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen1.png)
+### Muestra 2
+
+![Primer paso](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen2.png)
+### Muestra 3
+![Primer paso](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen3.png)
+
+### Muestra 4
+![Primer paso](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen4.png)
+
 ## Paso 1: Configuración inicial del contenedor
 
 ### 1. Crear una carpeta en local para los archivos web
@@ -47,6 +60,6 @@ Para cumplir con el requisito del taller de evidenciar los commits de todos los 
    git add .
 
 
-![Primer paso](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen1.png)
+
 
 
