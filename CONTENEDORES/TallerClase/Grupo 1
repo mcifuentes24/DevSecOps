@@ -1,0 +1,9 @@
+Grupo 1
+Integrantres:  JOSE RICARDO CLAVIJO
+               FREDYS MARQUEZ 
+               JUAN FELIPE CAICEDO
+               CARLOS MAYORGA RINCON
+Taller en clase: Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
+                 Debe tener asignada una IP válida en el segmento de conexión local lan.
+                 Se debe subir la imágen a dockerhub.
+                 Todo el proceso debe ser ampliamente documentado sobre este repositorio, en una carpeta titulada GrupoX y sigueindo las drectrices ya dadas en clase.
