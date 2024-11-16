@@ -47,6 +47,6 @@ Para cumplir con el requisito del taller de evidenciar los commits de todos los 
    git add .
 
 
-![Primer paso]("https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen1.png")
+![Primer paso](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen1.png)
 
 
