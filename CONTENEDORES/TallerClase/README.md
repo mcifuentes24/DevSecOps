@@ -7,4 +7,7 @@ En grupos de trabajo:
 3. Se debe  subir la imágen a dockerhub.
 4. Todo el proceso debe ser ampliamente documentado sobre este repositorio, en una carpeta titulada GrupoX y sigueindo las drectrices ya dadas en clase.
 
-NOTA: Debe evidenciarsen commits de todos los miembros del equipo de trabajo.
+Con aprecio; Jaider.
+
+
+**NOTA: Debe evidenciarsen commits de todos los miembros del equipo de trabajo.**
