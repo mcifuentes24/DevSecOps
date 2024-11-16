@@ -47,38 +47,6 @@ Para cumplir con el requisito del taller de evidenciar los commits de todos los 
    git add .
 
 
-## Paso 5: Revisión final y entrega
+![Primer paso]("https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo6/Imagen1.png")
 
-En esta última etapa, verificamos que todos los pasos anteriores se hayan completado correctamente y organizamos la documentación para la entrega del taller.
-
-### 1. Revisión de la documentación
-
-Asegúrate de que el archivo `README.md` está completo y que cada paso está documentado con los comandos, explicaciones y capturas de pantalla correspondientes. Revisa que se incluyan los siguientes elementos:
-
-- **Objetivo del taller**.
-- **Pasos detallados** con sus respectivas explicaciones.
-- **Capturas de pantalla** de cada paso importante.
-- **Contribuciones** de todos los miembros del equipo en el historial de commits.
-
-**Captura de pantalla**: _[Inserta aquí una captura de pantalla de la versión final del `README.md`]_
-
----
-
-### 2. Verificar la subida de la imagen a Docker Hub
-
-Confirma que la imagen `apache-web` ha sido subida correctamente a Docker Hub y que está disponible públicamente (o de acuerdo a la configuración de privacidad deseada). Asegúrate de incluir el enlace directo al repositorio de Docker Hub en el `README.md`.
-
-**Enlace a la imagen en Docker Hub**: [Inserta aquí el enlace a tu imagen en Docker Hub]
-
-**Captura de pantalla**: _[Inserta aquí una captura de pantalla del repositorio de Docker Hub que muestra la imagen subida]_
-
----
-
-### 3. Confirmar accesibilidad del contenedor en la LAN
-
-Si el taller requiere que el contenedor esté accesible en la LAN, realiza una prueba final para confirmar que se puede acceder al servidor Apache desde otros dispositivos en la misma red utilizando la IP asignada al contenedor.
-
-1. Asegúrate de que el contenedor sigue en ejecución con el comando:
-   ```bash
-   docker ps
 
