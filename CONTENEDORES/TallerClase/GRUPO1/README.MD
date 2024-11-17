@@ -19,8 +19,8 @@ Documentación del Taller Realizado
 </div>
 
 <ul>
-Punto 1
-Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
+<h3>Punto 1
+Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.</h3>
 
 
 
@@ -44,7 +44,7 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 
 </ul>
 
-2.	Debe tener asignada una IP válida en el segmento de conexión local lan.
+<h4>punto 2.	Debe tener asignada una IP válida en el segmento de conexión local lan.</h4>
 <ul>
 2.1 crear una red personalizada en docker
 
@@ -61,7 +61,7 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 
 ![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%206.jpg)
 </ul>
-3.	Se debe subir la imágen a dockerhub.
+<h5>punto 3.	Se debe subir la imágen a dockerhub.</h5>
 <ul>
 3.1 crear el archivo dockerfile localmente
 
