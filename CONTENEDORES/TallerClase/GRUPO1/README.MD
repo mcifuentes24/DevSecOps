@@ -39,7 +39,7 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 
 <ul>
 1.3	 verificamos que nuestro sitio web este corriendo 
-![image(https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/Imagen%203.jpg)
+![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/Imagen%203.jpg)
 </ul>
 
 2.	Debe tener asignada una IP válida en el segmento de conexión local lan.
