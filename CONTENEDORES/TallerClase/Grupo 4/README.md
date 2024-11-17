@@ -34,4 +34,9 @@ Se realiza la creación un directorio para el  proyecto
 
 ![image](https://github.com/user-attachments/assets/d7306bff-cb0c-4ca7-b6a0-bc996a468cc6)
 
+Realizamos una carpeta para los archivos del sitio web:
+
+![image](https://github.com/user-attachments/assets/91eba5b7-a8bb-4985-9dfc-a1bf45c11dde)
+
+
 
