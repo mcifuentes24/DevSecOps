@@ -5,6 +5,6 @@
 2. Juan Alvarez
 3. Brayan Hernandez
 
-1. Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web
+Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web
 
 
