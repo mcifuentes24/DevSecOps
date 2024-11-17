@@ -38,5 +38,17 @@ Realizamos una carpeta para los archivos del sitio web:
 
 ![image](https://github.com/user-attachments/assets/91eba5b7-a8bb-4985-9dfc-a1bf45c11dde)
 
+Dentro del directorio locar Grupo-4, crea un archivo Dockerfile con el siguiente contenido:
+
+# Usa la imagen base oficial de Apache
+FROM httpd:2.4
+
+# Copia los archivos de la carpeta local al contenedor
+COPY ./html/ /usr/local/apache2/htdocs/
+
+# Exponer el puerto 80
+EXPOSE 80
+
+
 
 
