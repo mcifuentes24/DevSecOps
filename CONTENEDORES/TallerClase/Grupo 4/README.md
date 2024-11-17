@@ -40,13 +40,16 @@ Realizamos una carpeta para los archivos del sitio web:
 
 Dentro del directorio locar Grupo-4, crea un archivo Dockerfile con el siguiente contenido:
 
-Utilizamos la imagen oficial de apache la cual es la siguiente
+Utilizamos la imagen oficial de apache la cual es la siguiente:
+
 FROM httpd:2.4
 
 Copiamos los archivos de la carpeta local en el contenedor esta seria el comando.
+
 COPY ./html/ /usr/local/apache2/htdocs/
 
 Por ultimo colocamos el siguiente puerto en el contendor
+
 EXPOSE 80
 
 
