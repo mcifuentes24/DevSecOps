@@ -77,7 +77,7 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 ![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%209.jpg)
 
 3.4 verificar en dockerhub
-
+![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/Imagen%2010.jpg)
 </body>
 </html>
 
