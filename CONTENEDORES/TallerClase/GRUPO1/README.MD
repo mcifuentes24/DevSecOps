@@ -2,7 +2,7 @@
 <html>
 <head>
 <div align = "center">
-Grupo 1
+<h1>Grupo 1</h1>
 </div>
 </head>
 <body>
