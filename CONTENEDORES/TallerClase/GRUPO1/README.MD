@@ -1,7 +1,9 @@
 
 <html>
 <head>
-Grupo 1
+<div align = "center">
+# Grupo 1
+</div>
 </head>
 <body>
 Integrantes:
