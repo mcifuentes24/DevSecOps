@@ -3,6 +3,7 @@
 <head>
 Grupo 1
 </head>
+<body>
 Integrantes:
 Fredys Marquez
 Carlos Mayorga
