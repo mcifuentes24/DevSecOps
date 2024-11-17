@@ -15,13 +15,6 @@ Luego, añadimos un archivo de ejemplo index.html en esa carpeta
 
 Código añadido
 
-<html>
-<head>
-    <title>Servidor Apache en Docker</title>
-</head>
-<body>
-    <h1>¡Hola, Somos el grupo 4 clase DevOps!</h1>
-</body>
-</html>
+
 
 ![image](https://github.com/user-attachments/assets/a63e39aa-377a-4fe5-8cd8-8a9e68ab5a2c)
