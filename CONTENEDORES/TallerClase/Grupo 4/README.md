@@ -58,6 +58,17 @@ EXPOSE 80
 
 ![image](https://github.com/user-attachments/assets/216d53c1-844b-42ce-9147-2445930c9f78)
 
+![imagen](https://github.com/user-attachments/assets/3d0eecbf-588d-4872-ac1f-97b5aef5ac04)
+
+##Abrimos el navegador y vamos a http://localhost:8080 y Vemos el contenido del archivo index.html que creamos en C:\Users\maria\Documents\Grupo-4
+
+![imagen](https://github.com/user-attachments/assets/6f7e1384-ad09-49d7-9ba0-7a9f0a097efb)
+
+
+
+
+
+
 
 
 
