@@ -2,6 +2,7 @@
 <html>
 <head>
 Integrantes:
+Fredys Marquez
 Carlos Mayorga
 Felipe Caicedo
 Ricardo Clavijo
