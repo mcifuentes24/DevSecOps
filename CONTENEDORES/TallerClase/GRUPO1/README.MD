@@ -64,6 +64,7 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 3.	Se debe subir la imágen a dockerhub.
 <ul>
 3.1 crear el archivo dockerfile localmente
+
 ![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%207.jpg)
 </ul>
 
