@@ -52,6 +52,12 @@ Por ultimo colocamos el siguiente puerto en el contendor
 
 EXPOSE 80
 
+![image](https://github.com/user-attachments/assets/7b1e49ea-d0f8-4fd2-a4f2-c7109439d4e0)
+
+![image](https://github.com/user-attachments/assets/605bf6a9-e049-457b-8f99-3cb30b69c341)
+
+![image](https://github.com/user-attachments/assets/216d53c1-844b-42ce-9147-2445930c9f78)
+
 
 
 
