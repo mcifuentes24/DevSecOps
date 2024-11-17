@@ -51,11 +51,11 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 ![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%204.jpg)
 
 </ul>
-
+<ul>
 2.2  verificamos que la red se creo correctamente
 
-
-
+![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%205.jpg)
+</ul>
 
 2.3 conectar esta red con nuestro contenedor
 
