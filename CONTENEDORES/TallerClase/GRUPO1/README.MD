@@ -70,6 +70,8 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 
 3.2 construir la imagen
 
+![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%208.jpg)
+
 3.3 subir la imagen
 
 
