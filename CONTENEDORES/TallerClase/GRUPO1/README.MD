@@ -21,12 +21,12 @@ Documentación del Taller Realizado
 <ul>
 Punto 1
 Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
-</ul>
+
 
 
 1.1	 se creo el archivo .html y el docker-compose.yml en la carpeta c: del equipo local
 
-
+</ul>
 
 
 1.2	iniciamos el docker compose en power Shell, eso se hace para que se descargue la imagen de apache y crea e inicia el contenedor en segundo plano.
