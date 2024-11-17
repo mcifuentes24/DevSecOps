@@ -25,7 +25,8 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 
 
 1.1	 se creo el archivo .html y el docker-compose.yml en la carpeta c: del equipo local
-<img> src="C:\mi_proyecto_web\Imagenes.jpg" alt="imagen primer punto" width="300" height="200"</img>
+<img src="Imagenes/Imagenes.jpg" alt="imagen primer punto" width="300" height="200">
+
 
 </ul>
 
