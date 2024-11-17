@@ -38,7 +38,8 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 </ul>
 
 <ul>
-1.3	 verificamos que nuestro sitio web este corriendo 
+1.3	 verificamos que nuestro sitio web este corriendo
+
 ![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/Imagen%203.jpg)
 
 </ul>
