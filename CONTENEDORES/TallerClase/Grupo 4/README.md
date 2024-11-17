@@ -15,6 +15,5 @@ Luego, añadimos un archivo de ejemplo index.html en esa carpeta
 
 Código añadido
 
+![image](https://github.com/user-attachments/assets/d1ea59db-17be-4a35-92d2-e76be9b447b5)
 
-
-![image](https://github.com/user-attachments/assets/a63e39aa-377a-4fe5-8cd8-8a9e68ab5a2c)
