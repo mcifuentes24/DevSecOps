@@ -7,10 +7,11 @@ Grupo 1
 </head>
 <body>
 Integrantes:
-Fredys Marquez
-Carlos Mayorga
-Felipe Caicedo
-Ricardo Clavijo
+**Fredys Marquez**
+**Carlos Mayorga**
+**Felipe Caicedo**
+**Ricardo Clavijo**
+
 Explicacion taller Docker
 
 Se realiza la explicación del paso a paso realizando el Taller en Docker Desktop
