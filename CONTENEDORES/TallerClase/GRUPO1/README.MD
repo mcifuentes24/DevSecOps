@@ -30,11 +30,12 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 
 </ul>
 
-
+<ul>
 1.2	iniciamos el docker compose en power Shell, eso se hace para que se descargue la imagen de apache y crea e inicia el contenedor en segundo plano.
+
 ![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/Imagen%202.jpg)
 
-
+</ul>
 
 
 
