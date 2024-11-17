@@ -6,11 +6,13 @@ Grupo 1
 </div>
 </head>
 <body>
-Integrantes:
-**Fredys Marquez**
-**Carlos Mayorga**
-**Felipe Caicedo**
-**Ricardo Clavijo**
+<h2>Integrantes:</h2>
+<ul>
+<li><strong>Fredys Marquez</strong></li>
+<li><strong>Carlos Mayorga</strong></li>
+<li><strong>Felipe Caicedo*</strong></li>
+<li><strong>Ricardo Clavijo</strong></li>
+</ul>
 
 Explicacion taller Docker
 
