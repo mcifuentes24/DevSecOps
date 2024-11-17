@@ -48,7 +48,7 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 <ul>
 2.1 crear una red personalizada en docker
 
-![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/Imagen%204.jpg)
+![image](https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/GRUPO1/imagen%204.jpg)
 
 </ul>
 
