@@ -1,4 +1,4 @@
-#Laboratorio1-JuanAlvarez
+#Taller en clase.
 ## Integrantes Grupo
 
 1. Monica Florez
