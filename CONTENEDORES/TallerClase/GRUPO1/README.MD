@@ -1,10 +1,71 @@
 
-Grupo 1
-Integrantres:  JOSE RICARDO CLAVIJO
-               FREDYS MARQUEZ 
-               JUAN FELIPE CAICEDO
-               CARLOS MAYORGA RINCON
-Taller en clase: Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
-                 Debe tener asignada una IP válida en el segmento de conexión local lan.
-                 Se debe subir la imágen a dockerhub.
-                 Todo el proceso debe ser ampliamente documentado sobre este repositorio, en una carpeta titulada GrupoX y sigueindo las drectrices ya dadas en clase.
+<html>
+<head>
+##Integrantes:
+Carlos Mayorga
+Felipe Caicedo
+Ricardo Clavijo
+
+
+##Explicacion taller Docker
+
+Se realiza la explicación del paso a paso realizando el Taller en Docker Desktop
+Creamos una carpeta en una maquina local donde guardarás los archivos web.
+
+
+1.	Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
+
+1.1	 se creo el archivo .html y el docker-compose.yml en la carpeta c: del equipo local
+
+
+
+
+1.2	iniciamos el docker compose en power Shell, eso se hace para que se descargue la imagen de apache y crea e inicia el contenedor en segundo plano.
+
+
+
+
+
+
+1.3	 verificamos que nuestro sitio web este corriendo 
+
+
+2.	Debe tener asignada una IP válida en el segmento de conexión local lan.
+
+2.1 crear una red personalizada en docker
+
+
+
+
+
+2.2  verificamos que la red se creo correctamente
+
+
+
+
+2.3 conectar esta red con nuestro contenedor
+
+
+3.	Se debe subir la imágen a dockerhub.
+3.1 crear el archivo dockerfile localmente
+
+
+
+3.2 construir la imagen
+
+3.3 subir la imagen
+
+
+3.4 verificar en dockerhub
+
+</body>
+</html>
+
+<html>
+<head>
+    <title>Servidor Apache en Docker</title>
+</head>
+<body>
+    <h1>¡Hola, Somos el grupo 1</h1>
+</body>
+</html>
