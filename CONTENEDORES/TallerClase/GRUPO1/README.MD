@@ -1,7 +1,7 @@
 
 <html>
 <head>
-Integrantes:
+##Integrantes:
 Carlos Mayorga
 Felipe Caicedo
 Ricardo Clavijo
