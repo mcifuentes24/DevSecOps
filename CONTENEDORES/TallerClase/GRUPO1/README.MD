@@ -83,11 +83,4 @@ Crear un contenedor con un servidor web apache, que haga uso de una carpeta en l
 </body>
 </html>
 
-<html>
-<head>
-    <title>Servidor Apache en Docker</title>
-</head>
-<body>
-    <h1>¡Hola, Somos el grupo 1</h1>
-</body>
-</html>
+
