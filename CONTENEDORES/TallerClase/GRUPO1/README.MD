@@ -10,17 +10,19 @@ Grupo 1
 <ul>
 <li><strong>Fredys Marquez</strong></li>
 <li><strong>Carlos Mayorga</strong></li>
-<li><strong>Felipe Caicedo*</strong></li>
+<li><strong>Felipe Caicedo</strong></li>
 <li><strong>Ricardo Clavijo</strong></li>
 </ul>
 
-Explicacion taller Docker
+<div align = "center">
+Documentación del Taller Realizado
+</div>
 
-Se realiza la explicación del paso a paso realizando el Taller en Docker Desktop
-Creamos una carpeta en una maquina local donde guardarás los archivos web.
+<ul>
+Punto 1
+Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
+</ul>
 
-
-1.	Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local para guardar su desarollo web.
 
 1.1	 se creo el archivo .html y el docker-compose.yml en la carpeta c: del equipo local
 
