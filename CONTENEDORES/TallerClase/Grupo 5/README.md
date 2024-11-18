@@ -10,12 +10,13 @@
 En las siguientes  imagenes se explicará detalladamente el proceso para crear un contenedor que ejecuta un servidor web Apache. Además, se mostrara la respectiva configurarácion de  el contenedor para que se utilice en una carpeta local en el sistema como directorio de almacenamiento del desarrollo web, permitiendo así una interacción directa entre el entorno local y el servidor dentro del contenedor.
 
 
-1. creamos la carpeta de forma local en el equipo en este caso la creamos en kali linux  en este caso la nombramos como grupo5
+1. creamos la carpeta de forma local en el equipo en este caso la creamos en kali linux  y la nombramos  como grupo5
 
 ![image](https://github.com/user-attachments/assets/efc86b16-ffd3-481a-949e-cba953e427a0)
 
-2. despues procedemos a descargar la imagen en apache
-![image](https://github.com/user-attachments/assets/f4a43fc2-a9c2-467e-b545-f3634f92b65c)
+2. despues procedemos a descargar la imagen en apache, para el servidor web
+![image](https://github.com/user-attachments/assets/44f3c438-c5f9-49f9-9327-ddb224075366)
+
 
 3. Despues de ello procedemos a ejecutar el contenedor con el siguiente comando
 docker run -d \
