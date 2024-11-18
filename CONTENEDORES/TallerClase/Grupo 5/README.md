@@ -32,15 +32,17 @@ y mostrara la siguiente imagen
 
 ![image](https://github.com/user-attachments/assets/540ede8a-5388-4ee2-b0df-d6240250d816)
 
-5. y despues ejecutamos el comando vinculado a la carpeta grupo 5 el cual es el siguiente:
+5. Despues ejecutamos el docker que creamos  vinculado a la carpeta grupo 5 el cual es el siguiente:
 
-docker run -d \
-  --name apache-servidor \
-  -p 8080:80 \
-  -v $(pwd)/grupo5:/usr/local/apache2/htdocs \
-  httpd:latest
+![image](https://github.com/user-attachments/assets/42c6be63-7174-40b3-b930-69781e5e0e37)
 
-  6. y por ultimo ejecutamos lo siguiente en el navegador http://localhost:8080 y podremos visulizar el mensaje que colocamos
+6. Aqui procedemos arrancar el servidor:
+
+![image](https://github.com/user-attachments/assets/6dc73b94-5210-45c3-9bd7-1d1926f9e7d0)
+
+
+
+8. y por ultimo ejecutamos lo siguiente en el navegador http://localhost:80:80y podremos visulizar el mensaje que colocamos
 
 ![image](https://github.com/user-attachments/assets/c0a8927f-94e8-4840-974d-82c0c1debd7e)
 
