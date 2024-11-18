@@ -3,7 +3,9 @@
 En grupos de trabajo:
 
 Integrantes: Paola Quiroga Pedreros
+
 Alejandro Cortes Forero
+
 Charles Guerrero Rivera
 
 1. Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local  para guardar su desarollo web.
