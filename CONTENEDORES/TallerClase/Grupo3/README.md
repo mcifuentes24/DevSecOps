@@ -1,8 +1,9 @@
 # Taller en clase.
 
-#En grupos de trabajo:
+En grupos de trabajo:
 
-#Integrantes: 
+Integrantes: 
+
 Paola Quiroga Pedreros
 
 Alejandro Cortes Forero
