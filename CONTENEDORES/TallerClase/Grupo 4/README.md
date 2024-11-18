@@ -1,8 +1,8 @@
 Integrantes:
-Yaneth Rodríguez
-Paola Lara
-Gustavo Ladino
-Maria Mahecha
+Yaneth Rodríguez,
+Paola Lara,
+Gustavo Ladino,
+Maria Mahecha.
 
 Explicacion taller Docker
 
