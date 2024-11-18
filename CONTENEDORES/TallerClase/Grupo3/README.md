@@ -2,7 +2,7 @@
 
 En grupos de trabajo:
 
-Integrantes: 
+Integrantes grupo 3: 
 
 Paola Quiroga Pedreros
 
