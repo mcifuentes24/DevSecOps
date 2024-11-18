@@ -26,9 +26,18 @@ En las siguientes  imagenes se explicará detalladamente el proceso para crear u
 
 ## Archivo dockerfile
 
+5. Dentro de la carpeta del grupo 5 procedemos e crear un Archivo llamado dockerfile  con el siguiente código:
+
+
+" imagen"
 
 
 
+
+
+
+## Con el comando docker ps podemos visulizar  el id del contenedor y tambien podremos parar el servidor con el comando docker stop  como lo muestra la siguiente imagen
+![image](https://github.com/user-attachments/assets/2fd372f9-848b-4882-abc9-6ddba2db224c)
 
 
 
@@ -38,7 +47,7 @@ En las siguientes  imagenes se explicará detalladamente el proceso para crear u
 
 
 
-5. y por ultimo ejecutamos lo siguiente en el navegador http://localhost:80:80y podremos visulizar el mensaje que colocamos
+5. Por ultimo ejecutamos lo siguiente en el navegador http://localhost:80:80y podremos visulizar el mensaje que colocamos
 
 ![image](https://github.com/user-attachments/assets/c0a8927f-94e8-4840-974d-82c0c1debd7e)
 
