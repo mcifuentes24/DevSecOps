@@ -2,7 +2,8 @@
 
 En grupos de trabajo:
 
-Integrantes: Paola Quiroga Pedreros
+Integrantes: 
+Paola Quiroga Pedreros
 
 Alejandro Cortes Forero
 
