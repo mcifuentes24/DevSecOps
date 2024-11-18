@@ -19,12 +19,18 @@ En las siguientes  imagenes se explicará detalladamente el proceso para crear u
 
 ## Archivo index.html
 
-4. dentro del archivo  procedemos a insertar archivos con el fin de poder conectar el servicio de forma local hacia la web para ello insertaremos un archivo index con el siguiente texto
+4. Dentro de la carpeta del grupo 5 procedemos e crear un archivo idex.html con el siguiente código
 
 ![image](https://github.com/user-attachments/assets/540ede8a-5388-4ee2-b0df-d6240250d816)
 
 
-##Archivo dockerfile
+## Archivo dockerfile
+
+
+
+
+
+
 
 4. Aqui procedemos arrancar el servidor:
 
