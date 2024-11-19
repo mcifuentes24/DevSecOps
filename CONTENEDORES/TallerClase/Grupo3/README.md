@@ -1,7 +1,5 @@
 # Taller en clase.
 
-En grupos de trabajo:
-
 Integrantes grupo 3: 
 
 Paola Quiroga Pedreros
@@ -9,6 +7,7 @@ Paola Quiroga Pedreros
 Alejandro Cortes Forero
 
 Charles Guerrero Rivera
+
 
 1. Crear un contenedor con un servidor web apache, que haga uso de una carpeta en local  para guardar su desarollo web.
 
