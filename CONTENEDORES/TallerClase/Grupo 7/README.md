@@ -30,23 +30,23 @@ graph TD;
  ![image](https://github.com/user-attachments/assets/8c035ca4-a76f-44cc-a637-32152d40f0f8)
 
 
-**2.**	Creación de un archivo de nombre index.html, con el contenido de la pagina
+**2.**	Creación de un archivo de nombre index.html, con el contenido de la pagina.
 
  ![image](https://github.com/user-attachments/assets/6c3a3ee9-b678-4b07-8d69-0ab200aeef6e)
 ![image](https://github.com/user-attachments/assets/6361b680-46f4-4c51-a268-98ab4ac4d570)
 
  
-**3.**	Creación del archivo Dockerfile
+**3.**	Creación del archivo Dockerfile.
 
  ![image](https://github.com/user-attachments/assets/7ac44f5d-f304-4d7d-a5bf-0637956d37f7)
 
 
-**4.**	Construcción de la imagen apache-local con la etiqueta 1.0 haciendo relación a que es la primera versión del archivo
+**4.**	Construcción de la imagen apache-local con la etiqueta 1.0 haciendo relación a que es la primera versión del archivo.
 
 ![image](https://github.com/user-attachments/assets/bcddb604-d659-46f7-a175-7ca56e2c5d98)
 
  
-**5.**	Asignación de una IP del segmento 10.0.2.0/24, en este caso la 10.0.2.30
+**5.**	Asignación de una IP del segmento ip 10.0.2.0/24, en este caso la  ip 10.0.2.30
 
 ![image](https://github.com/user-attachments/assets/63618ba2-ddaf-4082-94dd-cee99df86966)
 
