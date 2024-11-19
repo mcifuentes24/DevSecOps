@@ -4,13 +4,28 @@ Este repositorio contiene el desarrollo del taller realizado en clase.
 
 ## Integrantes del Grupo 7
 
-- **Michell Gutierrez**
-- **Harold Ramírez**
-- **Camilo Porras**
+|   Nombre     |   Apellido    |
+| -------------| ------------- |
+|   Michelle   |   Gutierrez   |
+|   Harold     |   Ramirez     |
+|   Camilo     |   Porras      |
+
+# Diagrama de  diseño:
+
+```mermaid
+graph TD;
+    A-->Carpeta_httpd_apache;
+    A-->B;
+    B-->Creacion_index.html;
+    B-->Asignacion_de_ip;
+    B-->C;
+    C-->test_localhost;
+    C-->upload_imagen_docker;
+```
 
 ## Descripción
 
-**1.**	Creación de una carpeta local con el nombre /apache-cerver-grupo-7/html
+**1.**	Creación de una carpeta local con el nombre /apache-server-grupo-7/html
 
  ![image](https://github.com/user-attachments/assets/8c035ca4-a76f-44cc-a637-32152d40f0f8)
 
@@ -45,3 +60,4 @@ Este repositorio contiene el desarrollo del taller realizado en clase.
 
  ![image](https://github.com/user-attachments/assets/e1bec824-5b27-4d75-b423-fd6ccae3de17)
 ![image](https://github.com/user-attachments/assets/e6e99dce-b354-4466-b6ee-a476ab023191)
+
