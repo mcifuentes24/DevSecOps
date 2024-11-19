@@ -14,12 +14,12 @@ Charles Guerrero Rivera
 
 La capeta se llama web_project
 
-<img src=https://github.com/jaiderospina/DevSecOps/blob/main/1.Crear%20un%20contenedor.png
+<img src=https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo3/1.Crear%20un%20contenedor.png
  alt="Crear contenedor">
 </p>
 
 
-<img src=https://github.com/jaiderospina/DevSecOps/blob/main/1.1%20Crear%20un%20contenedor.png
+<img src=https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo3/1.1%20Crear%20un%20contenedor.png
  alt="Crear contenedor2">
 </p>
 
@@ -31,7 +31,7 @@ docker run -d \
   -p 8080:80 \
   my_apache
 
-<img src=https://github.com/jaiderospina/DevSecOps/blob/main/2%20ip.png
+<img src=https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo3/2%20ip.png
  alt="Crear contenedor2">
 </p>
 
@@ -41,12 +41,12 @@ docker run -d \
 
 3. Se debe  subir la imágen a dockerhub.
 
-<img src=https://github.com/jaiderospina/DevSecOps/blob/main/3.1.png
+<img src=https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo3/3.1.png
  alt="Crear contenedor2">
 </p>
 
 
-<img src=https://github.com/jaiderospina/DevSecOps/blob/main/3.2.png
+<img src=https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo3/3.2.png
  alt="Imagen Dockerhub2">
 </p>
 
