@@ -51,9 +51,3 @@ docker run -d \
 </p>
 
 
-4. Todo el proceso debe ser ampliamente documentado sobre este repositorio, en una carpeta titulada GrupoX y sigueindo las drectrices ya dadas en clase.
-
-Con aprecio; Jaider.
-
-
-**NOTA: Debe evidenciarsen commits de todos los miembros del equipo de trabajo.**
