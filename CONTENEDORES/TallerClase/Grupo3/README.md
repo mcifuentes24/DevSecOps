@@ -35,6 +35,9 @@ docker run -d \
  alt="Crear contenedor2">
 </p>
 
+<img src=https://github.com/jaiderospina/DevSecOps/blob/main/CONTENEDORES/TallerClase/Grupo3/2.1%20integrantes.png
+ alt="Intagrantes">
+</p>
 
 3. Se debe  subir la imágen a dockerhub.
 
